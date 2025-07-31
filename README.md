@@ -72,7 +72,7 @@
     </td>
     <td align="center" width="220">
       <a href="https://github.com/MarioMurillo2022/amigo-secreto-one" target="_blank">
-        <img src="https://via.placeholder.com/220x120.png?text=Project+3" alt="Project 3" width="220" />
+        <img src="https://via.placeholder.com/220x120.png?text=Project+3" alt="Challenge Amigo Secreto" width="220" />
         <br/>
         <b>Project Three</b>
       </a>
