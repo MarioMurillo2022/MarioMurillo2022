@@ -85,7 +85,7 @@
 <h2 align="center" style="color:#003049;">GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioMurillo&show_icons=true&theme=dark&hide_border=true&since=2022-01-01" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioMurillo&show_icons=true&theme=dark&hide_border=true&since=2025-01-01" alt="GitHub Stats" width="450" />
 </p>
 
 <p align="center">
