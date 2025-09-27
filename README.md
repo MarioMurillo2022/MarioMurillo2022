@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Email-003049?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.credential.net/8b798e9e-f1c5-40f4-9683-b1bc098e79be?key=701a862795499a6a61c0f84d1bbc44381a4b58f5b72e37b8b89b5f1605094b9f#acc.1o69nwGg" target="_blank">
-    <img src="https://img.shields.io/badge/Accredible-003049?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Accredible" />
+    <img src="https://img.shields.io/badge/Accredible-003049?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Accredible credential verification"/>
 </a>
 </p>
 
