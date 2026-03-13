@@ -60,17 +60,17 @@
 <table align="center">
   <tr>
     <td align="center" width="220">
-      <a href="https://github.com/MarioMurillo2022/FumigaHn" target="_blank">
+      <a href="https://fumiga-hn.vercel.app/" target="_blank">
         <img src="https://github.com/MarioMurillo2022/FumigaHn/blob/main/src/assets/image.png" alt="Project 1" width="220" />
         <br/>
         <b>Fumiga HN</b>
       </a>
     </td>
     <td align="center" width="220">
-      <a href="https://github.com/MarioMurillo2022/Front-end-Core-Stack-Number-Secret" target="_blank">
+      <a href="https://numerosecretomm.vercel.app/" target="_blank">
         <img src="https://github.com/MarioMurillo2022/Front-end-Core-Stack-Number-Secret/blob/main/FrontNsWithAzure/src/assets/image.png" alt="Project 2" width="220" />
         <br/>
-        <b>Numero Secreto</b>
+        <b>Number Secret</b>
       </a>
     </td>
     <td align="center" width="220">
